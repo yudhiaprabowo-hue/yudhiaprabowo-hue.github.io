@@ -2,7 +2,7 @@
 layout: post
 title: Satu kali input, seluruh persyaratan tersalurkan
 description: Cerita di balik Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
-image: /assets/gambar/penapisan/beranda.jpg
+image: /assets/gambar/beranda.jpg
 tags: [belajar, teknologi, perizinan]
 ---
 
@@ -11,7 +11,7 @@ Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizi
 <!--lanjut-->
 
 <figure>
-  <img src="{{ '/assets/gambar/penapisan/beranda.jpg' | relative_url }}" alt="Halaman beranda Tangerang One Permit dengan judul Satu kali input, seluruh persyaratan tersalurkan">
+  <img src="{{ '/assets/gambar/beranda.jpg' | relative_url }}" alt="Halaman beranda Tangerang One Permit dengan judul Satu kali input, seluruh persyaratan tersalurkan">
   <figcaption>Halaman beranda prototipe Tangerang One Permit.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Gagasan yang ingin saya uji dirangkum dalam satu kalimat di halaman depan websit
 Bagian tersulit justru bukan menulis kode, melainkan menyepakati alurnya sendiri. Setelah beberapa kali mengubah rancangan, alur yang saya pakai sekarang terdiri atas empat langkah.
 
 <figure>
-  <img src="{{ '/assets/gambar/penapisan/alur-empat-langkah.jpg' | relative_url }}" alt="Diagram empat langkah: Keterangan Rencana Kota, lalu Persetujuan Lingkungan, Peil Banjir, dan Andalalin secara paralel, lalu Pengesahan Rencana Tapak atau Tidak Perlu PRT, lalu PBG">
+  <img src="{{ '/assets/gambar/alur-empat-langkah.jpg' | relative_url }}" alt="Diagram empat langkah: Keterangan Rencana Kota, lalu Persetujuan Lingkungan, Peil Banjir, dan Andalalin secara paralel, lalu Pengesahan Rencana Tapak atau Tidak Perlu PRT, lalu PBG">
   <figcaption>Empat langkah yang diproses berurutan setelah permohonan diverifikasi.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Izin yang tidak dipersyaratkan dilewati otomatis. Langkah berikutnya baru terbuk
 Prinsip yang saya pegang sejak awal: setiap ambang batas harus punya dasar hukum, dan dasar hukum itu harus terlihat oleh pengguna. Karena itu, hasil penapisan tidak hanya menyebut izin apa yang wajib, tetapi juga alasannya dan pasal yang menjadi rujukannya. Hasilnya diperbarui langsung saat formulir diisi.
 
 <figure>
-  <img src="{{ '/assets/gambar/penapisan/formulir-dan-hasil-penapisan.jpg' | relative_url }}" alt="Formulir permohonan di sebelah kiri dan panel Hasil Penapisan Otomatis di sebelah kanan">
+  <img src="{{ '/assets/gambar/formulir-dan-hasil-penapisan.jpg' | relative_url }}" alt="Formulir permohonan di sebelah kiri dan panel Hasil Penapisan Otomatis di sebelah kanan">
   <figcaption>Contoh simulasi gudang 1.800 m² di atas lahan 2.500 m². Panel kanan langsung menunjukkan persyaratan yang wajib beserta dasar hukumnya. Data yang dipakai adalah data contoh.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Rujukan utamanya adalah PP Nomor 28 Tahun 2025, ditambah peraturan teknis sepert
 Saya juga menambahkan asisten percakapan bernama "Tanya Kami". Pengguna cukup menceritakan rencananya dengan bahasa sehari-hari. Asisten akan menanyakan data yang masih kurang, lalu menjalankan penapisan yang sama dengan formulir.
 
 <figure class="sempit">
-  <img src="{{ '/assets/gambar/penapisan/chatbot-tanya-kami.jpg' | relative_url }}" alt="Jendela percakapan Tanya Kami yang menjawab izin apa saja yang diperlukan untuk membangun gudang">
+  <img src="{{ '/assets/gambar/chatbot-tanya-kami.jpg' | relative_url }}" alt="Jendela percakapan Tanya Kami yang menjawab izin apa saja yang diperlukan untuk membangun gudang">
   <figcaption>Tanya Kami menjawab kebutuhan izin untuk rencana gudang di Kecamatan Jatiuwung.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Saya juga menambahkan asisten percakapan bernama "Tanya Kami". Pengguna cukup me
 Di belakang layar, ada panel petugas untuk setiap dinas. DPMPTSP memverifikasi permohonan, lalu setiap dinas hanya melihat dan memproses izin yang menjadi kewenangannya. Dasbor menampilkan rekap permohonan dan beban kerja setiap subsistem.
 
 <figure>
-  <img src="{{ '/assets/gambar/penapisan/panel-petugas.jpg' | relative_url }}" alt="Dasbor panel petugas berisi rekap permohonan dan beban setiap subsistem">
+  <img src="{{ '/assets/gambar/panel-petugas.jpg' | relative_url }}" alt="Dasbor panel petugas berisi rekap permohonan dan beban setiap subsistem">
   <figcaption>Dasbor panel petugas dengan data contoh.</figcaption>
 </figure>
 
