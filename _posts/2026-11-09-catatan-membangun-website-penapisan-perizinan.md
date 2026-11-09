@@ -1,3 +1,4 @@
+---
 layout: post
 title: Satu kali input, seluruh persyaratan tersalurkan
 description: Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
