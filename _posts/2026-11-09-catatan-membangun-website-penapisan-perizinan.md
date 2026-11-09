@@ -65,11 +65,9 @@ Hasil penapisan juga bisa langsung diterbitkan dalam bentuk PDF, hasil sesuai de
  <img width="561" height="828" alt="PENAPISAN 1" src="https://github.com/user-attachments/assets/046e4ff5-98f1-4539-9f03-8b20cf6dec5a" />
  <img width="562" height="814" alt="PENAPISAN 2" src="https://github.com/user-attachments/assets/dbbaa567-991f-48f9-9486-23eb7dba54bd" />
  <img width="569" height="825" alt="PENAPISAN 3" src="https://github.com/user-attachments/assets/a59503a2-e500-4172-869a-30b191546424" />
- 
-   <figcaption>Contoh Hasil penapisan berupa file PDF.</figcaption>
 </figure>
 
-Rujukan utamanya adalah PP Nomor 28 Tahun 2025, ditambah peraturan teknis seperti Permen LHK Nomor 4 Tahun 2021 untuk persetujuan lingkungan, Permenhub Nomor 17 Tahun 2021 untuk Andalalin, dan Permen PUPR Nomor 11/PRT/M/2014 untuk peil banjir. Ketentuan yang belum ada dasar hukumnya tidak saya karang. Ketentuan seperti itu ditandai sebagai ketentuan daerah dan dijadikan parameter yang dapat diatur administrator.
+Contoh Hasil penapisan berupa file PDF.
 
 
 ## Tanya Kami
