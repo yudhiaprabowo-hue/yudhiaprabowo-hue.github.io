@@ -1,22 +1,14 @@
 ---
 layout: post
 title: Memulai jurnal ini
-description: Tulisan pertama — alasan saya mulai menulis jurnal secara terbuka.
+description: Alasan saya mulai menulis jurnal secara terbuka.
 tags: [catatan]
 ---
 
-Ini tulisan pertama di jurnal ini. Saya ingin punya satu tempat untuk mencatat apa yang saya pelajari dan alami, supaya tidak hilang begitu saja di antara kesibukan sehari-hari.
+Saya menulis untuk mencatat apa yang ada, yang ada kemarin, hari ini dan yang akan datang.
 
 <!--lanjut-->
 
-Menulis membantu saya berpikir lebih jernih. Hal yang terasa rumit di kepala sering kali menjadi lebih sederhana setelah dituliskan. Selain itu, catatan lama bisa menjadi pengingat tentang seberapa jauh saya sudah melangkah.
+Saya percaya tentang Demokratisasi Ide, bahwa ide mesti disebarluaskan, bahwa ide tidak bisa hanya mengendap di kegelapan. Ide tidak bisa disamakan menjadi seperti *Barang Antik* yang ditinggalkan diujung rak berdebu dan dihinggapi jaring laba-laba. Ide perlu disebarkan walaupun tidak semuanya akan berubah menjadi kenyataan, karena ide tidak seharusnya mati dalam keheningan, apalagi ide yang baik untuk sesama umat manusia.
 
-## Apa yang akan saya tulis
-
-- Pelajaran dari pekerjaan dan perkuliahan
-- Buku, artikel, atau gagasan yang menarik
-- Catatan perjalanan dan hal-hal kecil sehari-hari
-
-> Tulisan ini contoh. Silakan ubah atau hapus, lalu ganti dengan tulisan Anda sendiri.
-
-Sampai jumpa di tulisan berikutnya.
+End
