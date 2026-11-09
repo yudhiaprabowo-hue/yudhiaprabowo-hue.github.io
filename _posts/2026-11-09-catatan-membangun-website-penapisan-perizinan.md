@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Catatan membangun website penapisan perizinan
-description: Cerita di balik Tangerang One Permit, prototipe pribadi untuk menapis persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
+title: Satu kali input, seluruh persyaratan tersalurkan
+description: Cerita di balik Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
 image: /assets/gambar/penapisan/beranda.jpg
 tags: [belajar, teknologi, perizinan]
 ---
 
-Sejak awal Oktober, sebagian besar waktu luang saya habis untuk satu proyek: sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
+Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober, sebagian besar waktu luang saya habis untuk satu proyek: sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
 
 <!--lanjut-->
 
