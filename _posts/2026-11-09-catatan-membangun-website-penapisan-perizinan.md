@@ -1,4 +1,3 @@
----
 layout: post
 title: Satu kali input, seluruh persyaratan tersalurkan
 description: Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
@@ -9,18 +8,18 @@ tags: [belajar, teknologi, perizinan]
 Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober 2024, berawal dari updated dari sistem perizinan online kota tangerang yang melakukan update dari versi 1 menjadi versi 2, terpikir apakah ada perubahan signifikan yang dapat dilakukan? tidak hanya sebatas perubahan minor, namun perubahan yang memberikan dampak besar dan menjadi **Game Changer** dalam dunia perizinan di Indonesia. Ide ini sudah disampaikan ke beberapa orang, semua berawal dari halaman Power Point berikut, yang merupakan awal dari prototipe penapisan persyaratan dasar berusaha.
 
 <!--lanjut-->
-
+---
 <figure>
  <img width="1372" height="765" alt="image" src="https://github.com/user-attachments/assets/93ba56c1-2818-4a0c-8b62-349972c80178" />
  <figcaption> Ide awal prototipe penapisan persyaratan dasar berusaha. </figcaption>
 </figure>
 
 <!--lanjut-->
-
+---
 Keterbatasan akan kemampuan teknis dalam mengeksekusi sebuah ide yang berkaitan dengan teknologi informasi, membuat ide itu hanya sampai sebatas ide yang coba dipasarkan ke pihak internal. 2026 menjadi awal penulis mengenal apa itu **Artificial Inteligence** , dimulai dari penggunaan **ChatGPT**, diakhiri dengan menemukan **Claude**. Penulis merasa bahwa **Claude** dapat membuat penulis melewati batas kemampuan teknis dalam penerapan prototipe penapisan persyaratan dasar yang idenya sudah terkubur sejak dia lahir di Oktober 2024. Dua tahun kemudian di Oktober 2026, sebuah prototipe website penapisan perizinan yang penulis beri nama Tangerang One Permit (TOP) lahir. Proyek ini masih berupa prototipe yang berjalan di komputer penulis sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
 
 <figure>
-  <img src="{{ '/assets/gambar/beranda.jpg' | relative_url }}" alt="Halaman beranda Tangerang One Permit dengan judul Satu kali input, seluruh persyaratan tersalurkan">
+  <img width="1280" height="800" alt="beranda" src="https://github.com/user-attachments/assets/6020458a-d166-42cf-90ef-8b609bd07246" />
   <figcaption>Halaman beranda prototipe Tangerang One Permit.</figcaption>
 </figure>
 
