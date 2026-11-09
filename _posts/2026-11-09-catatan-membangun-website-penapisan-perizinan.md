@@ -10,7 +10,7 @@ Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizi
 
 <!--lanjut-->
 <figure>
-<img width="1372" height="765" alt="image" src="https://github.com/user-attachments/assets/93ba56c1-2818-4a0c-8b62-349972c80178" />
+ <img width="1372" height="765" alt="image" src="https://github.com/user-attachments/assets/93ba56c1-2818-4a0c-8b62-349972c80178" />
  <figcaption>Ide awal prototipe penapisan persyaratan dasar berusaha.</figcaption>
 </figure>
 
