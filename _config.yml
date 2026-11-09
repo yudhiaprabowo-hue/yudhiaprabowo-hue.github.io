@@ -1,0 +1,42 @@
+# ==========================================================
+# PENGATURAN UTAMA BLOG — ubah bagian ini sesuai keinginan
+# ==========================================================
+
+title: Per Aspera Ad Astra
+tagline: Jurnal pribadi tentang pekerjaan, belajar, dan hal-hal kecil yang layak dicatat.
+description: Jurnal pribadi tentang pekerjaan, belajar, dan hal-hal kecil yang layak dicatat.
+author:
+  name: pfeiray
+lang: id_ID
+
+# Alamat situs. Untuk GitHub Pages:
+#   url: https://NAMA-AKUN.github.io
+#   baseurl: /NAMA-REPOSITORI   (kosongkan "" jika repositori bernama NAMA-AKUN.github.io)
+url: "https://yudhiaprabowo-hue.github.io"
+baseurl: ""
+
+# Tautan di bagian bawah halaman (hapus baris yang tidak dipakai)
+social:
+  email: ""
+  instagram: ""
+  linkedin: ""
+
+# ----------------------------------------------------------
+# Pengaturan teknis — tidak perlu diubah
+# ----------------------------------------------------------
+timezone: Asia/Jakarta
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:year/:month/:title/
+excerpt_separator: "<!--lanjut-->"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - PANDUAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - templat-tulisan.md
