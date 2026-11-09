@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- assign jumlah_kata = content | strip_html | number_of_words -%}
+{%- assign menit = jumlah_kata | divided_by: 200 | plus: 1 -%}
+<article class="tulisan">
+  <header class="tulisan-kepala">
+    <p class="tulisan-meta">{% assign tgl = page.date %}{% include tanggal.html %}<span class="pemisah">/</span>{{ menit }} menit membaca</p>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="isi-tulisan">
+    {{ content }}
+  </div>
+
+  {%- if page.tags.size > 0 %}
+  <p class="label-tulisan">Topik: {% for t in page.tags %}<span>{{ t }}</span>{% endfor %}</p>
+  {%- endif %}
+
+  <nav class="tulisan-lain" aria-label="Tulisan lain">
+    {%- if page.previous %}
+    <a class="sebelumnya" href="{{ page.previous.url | relative_url }}"><span>Tulisan sebelumnya</span>{{ page.previous.title }}</a>
+    {%- endif %}
+    {%- if page.next %}
+    <a class="berikutnya" href="{{ page.next.url | relative_url }}"><span>Tulisan berikutnya</span>{{ page.next.title }}</a>
+    {%- endif %}
+  </nav>
+</article>

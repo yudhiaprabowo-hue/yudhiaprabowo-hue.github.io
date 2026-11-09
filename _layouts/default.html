@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+  {% feed_meta %}
+</head>
+<body>
+  <a class="lewati" href="#isi">Langsung ke isi</a>
+  <div class="buku">
+    <header class="kepala">
+      <a class="judul-situs" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <p class="tagline">{{ site.tagline }}</p>
+      <nav class="navigasi" aria-label="Menu utama">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Semua tulisan</a>
+        <a href="{{ '/tentang/' | relative_url }}"{% if page.url == '/tentang/' %} aria-current="page"{% endif %}>Tentang saya</a>
+        <a href="{{ '/feed.xml' | relative_url }}">Langganan (RSS)</a>
+      </nav>
+    </header>
+
+    <main id="isi">
+      {{ content }}
+    </main>
+
+    <footer class="kaki">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}.
+      {%- if site.social.email != "" %} <a href="mailto:{{ site.social.email }}">Email</a>{% endif -%}
+      {%- if site.social.instagram != "" %} <a href="https://instagram.com/{{ site.social.instagram }}">Instagram</a>{% endif -%}
+      {%- if site.social.linkedin != "" %} <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}">LinkedIn</a>{% endif -%}
+      </p>
+    </footer>
+  </div>
+</body>
+</html>

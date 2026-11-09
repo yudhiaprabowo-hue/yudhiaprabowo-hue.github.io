@@ -1,0 +1,5 @@
+{%- assign hari_id = "Minggu,Senin,Selasa,Rabu,Kamis,Jumat,Sabtu" | split: "," -%}
+{%- assign bulan_id = "Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,November,Desember" | split: "," -%}
+{%- assign t_hari = tgl | date: "%w" | plus: 0 -%}
+{%- assign t_bulan = tgl | date: "%-m" | minus: 1 -%}
+<time datetime="{{ tgl | date: '%Y-%m-%d' }}">{{ hari_id[t_hari] }}, {{ tgl | date: "%-d" }} {{ bulan_id[t_bulan] }} {{ tgl | date: "%Y" }}</time>

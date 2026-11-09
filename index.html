@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{%- if site.posts.size == 0 %}
+<p class="kosong">Belum ada tulisan. Tambahkan berkas pertama ke folder <code>_posts</code>.</p>
+{%- endif %}
+{%- assign tahun_sebelumnya = "" -%}
+{%- for post in site.posts -%}
+  {%- assign tahun = post.date | date: "%Y" -%}
+  {%- if tahun != tahun_sebelumnya -%}
+    {%- unless forloop.first %}</ol></section>{% endunless %}
+<section class="kelompok-tahun" aria-labelledby="tahun-{{ tahun }}">
+  <h2 class="tahun" id="tahun-{{ tahun }}">{{ tahun }}</h2>
+  <ol class="daftar-tulisan" reversed>
+    {%- assign tahun_sebelumnya = tahun -%}
+  {%- endif %}
+    <li class="entri">
+      <p class="entri-tanggal">{% assign tgl = post.date %}{% include tanggal.html %}</p>
+      <h3 class="entri-judul"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="entri-ringkas">{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords: 32 }}{% endif %}</p>
+    </li>
+  {%- if forloop.last %}
+  </ol>
+</section>
+  {%- endif -%}
+{%- endfor %}
