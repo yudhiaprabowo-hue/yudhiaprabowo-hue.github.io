@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Satu kali input, seluruh persyaratan tersalurkan
-description: Cerita di balik Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
+description: Tangerang One Permit, prototipe penapisan persyaratan dasar berusaha dan menyalurkannya ke OPD teknis secara berurutan.
 image: /assets/gambar/beranda.jpg
 tags: [belajar, teknologi, perizinan]
 ---
@@ -16,7 +16,7 @@ Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizi
 
 <!--lanjut-->
 
-Sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
+Keterbatasan akan kemampuan teknis dalam mengeksekusi sebuah ide yang berkaitan dengan teknologi informasi, membuat ide itu hanya sampai sebatas ide yang coba dipasarkan ke pihak internal. 2026 menjadi awal penulis mengenal apa itu **Artificial Inteligence** , dimulai dari penggunaan **ChatGPT**, diakhiri dengan menemukan **Claude**. Penulis merasa bahwa **Claude** dapat membuat penulis melewati batas kemampuan teknis dalam penerapan prototipe penapisan persyaratan dasar yang idenya sudah terkubur sejak dia lahir di Oktober 2024. Dua tahun kemudian di Oktober 2026, sebuah prototipe website penapisan perizinan yang penulis beri nama Tangerang One Permit (TOP) lahir. Proyek ini masih berupa prototipe yang berjalan di komputer penulis sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
 
 <figure>
   <img src="{{ '/assets/gambar/beranda.jpg' | relative_url }}" alt="Halaman beranda Tangerang One Permit dengan judul Satu kali input, seluruh persyaratan tersalurkan">
