@@ -14,7 +14,7 @@ Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizi
  <figcaption>Ide awal prototipe penapisan persyaratan dasar berusaha.</figcaption>
 </figure>
 
-
+<!--lanjut-->
 
 Sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
 
