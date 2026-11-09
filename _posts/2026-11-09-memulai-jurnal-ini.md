@@ -5,7 +5,7 @@ description: Alasan saya mulai menulis jurnal secara terbuka.
 tags: [catatan]
 ---
 
-Saya menulis untuk mencatat apa yang ada, yang ada kemarin, hari ini dan yang akan datang.
+Saya menulis untuk mencatat apa yang ada kemarin, hari ini dan yang akan datang.
 
 <!--lanjut-->
 
