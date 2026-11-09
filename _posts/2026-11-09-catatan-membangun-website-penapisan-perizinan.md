@@ -6,9 +6,17 @@ image: /assets/gambar/beranda.jpg
 tags: [belajar, teknologi, perizinan]
 ---
 
-Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober, sebagian besar waktu luang saya habis untuk satu proyek: sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
+Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober, sebagian besar waktu luang saya habis untuk satu proyek: 
 
 <!--lanjut-->
+<figure>
+<img width="1372" height="765" alt="image" src="https://github.com/user-attachments/assets/93ba56c1-2818-4a0c-8b62-349972c80178" />
+ <figcaption>Ide awal prototipe penapisan persyaratan dasar berusaha.</figcaption>
+</figure>
+
+
+
+Sebuah website penapisan perizinan yang saya beri nama Tangerang One Permit (TOP). Proyek ini masih berupa prototipe yang berjalan di komputer saya sendiri dan belum menjadi layanan publik. Meski begitu, proses membangunnya sudah memberi banyak pelajaran yang sayang jika tidak dicatat.
 
 <figure>
   <img src="{{ '/assets/gambar/beranda.jpg' | relative_url }}" alt="Halaman beranda Tangerang One Permit dengan judul Satu kali input, seluruh persyaratan tersalurkan">
