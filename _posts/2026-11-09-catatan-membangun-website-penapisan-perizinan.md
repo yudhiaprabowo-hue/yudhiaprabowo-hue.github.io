@@ -9,6 +9,7 @@ tags: [belajar, teknologi, perizinan]
 Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober 2024, berawal dari updated dari sistem perizinan online kota tangerang yang melakukan update dari versi 1 menjadi versi 2, terpikir apakah ada perubahan signifikan yang dapat dilakukan? tidak hanya sebatas perubahan minor, namun perubahan yang memberikan dampak besar dan menjadi **Game Changer** dalam dunia perizinan di Indonesia. Ide ini sudah disampaikan ke beberapa orang, semua berawal dari halaman Power Point berikut, yang merupakan awal dari prototipe penapisan persyaratan dasar berusaha.
 
 <!--lanjut-->
+
 <figure>
  <img width="1372" height="765" alt="image" src="https://github.com/user-attachments/assets/93ba56c1-2818-4a0c-8b62-349972c80178" />
  <figcaption> Ide awal prototipe penapisan persyaratan dasar berusaha. </figcaption>
