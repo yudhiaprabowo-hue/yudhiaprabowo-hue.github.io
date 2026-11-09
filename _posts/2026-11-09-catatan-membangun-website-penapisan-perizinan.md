@@ -67,7 +67,7 @@ Hasil penapisan juga bisa langsung diterbitkan dalam bentuk PDF, hasil sesuai de
  <img width="569" height="825" alt="PENAPISAN 3" src="https://github.com/user-attachments/assets/a59503a2-e500-4172-869a-30b191546424" />
 </figure>
 
-<figcaption>Contoh Hasil penapisan berupa file PDF.</figcaption>
+ <figcaption>Contoh Hasil penapisan berupa file PDF.</figcaption>
 
 
 ## Satu Kali Input, Seluruh Persyaratan Tersalurkan
@@ -78,7 +78,7 @@ Pada akhirnya, hal ini yang menjadi pembeda, dari semua parameter yang diinput o
  <img width="1270" height="945" alt="PENAPISAN 4" src="https://github.com/user-attachments/assets/4f6c5c94-57bd-4dfc-b7b7-37f4f62cb058" />
 </figure>
 
-<figcaption>Seluruh Persyaratan yang dibutuhkan untuk setiap perizinan dimunculkan di awal.</figcaption>
+ <figcaption>Seluruh Persyaratan yang dibutuhkan untuk setiap perizinan dimunculkan di awal.</figcaption>
 
 ## Tanya Kami
 
@@ -89,7 +89,7 @@ Penulis
   <img width="430" height="630" alt="chatbot-tanya-kami" src="https://github.com/user-attachments/assets/25446b2b-c33a-4ec7-9eb5-e4060516f86a" />
 </figure>
 
-<figcaption>Tanya Kami menjawab kebutuhan izin untuk rencana gudang di Kecamatan Jatiuwung.</figcaption>
+ <figcaption>Tanya Kami menjawab kebutuhan izin untuk rencana gudang di Kecamatan Jatiuwung.</figcaption>
 
 
 
