@@ -6,7 +6,7 @@ image: /assets/gambar/beranda.jpg
 tags: [belajar, teknologi, perizinan]
 ---
 
-Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober 2024, berawal dari updated dari sistem perizinan online kota tangerang yang melakukan update dari versi 1 menjadi versi 2, terpikir apakah ada perubahan signifikan yang dapat dilakukan? tidak hanya sebatas perubahan minor, namun perubahan yang memberikan dampak besar dan menjadi **Game Changer** dalam dunia perizinan di Indonesia. Ide ini sudah disampaikan ke beberapa orang, semua berawal dari halaman Power Point berikut, yang merupakan awal dari prototipe penapisan persyaratan dasar berusaha.
+Semua dimulai pada 30 September 2024, judul awalnya adalah **Grand Design Perizinan v2** Sejak awal Oktober 2024, berawal dari akan diupdatenya sistem perizinan online kota tangerang yang melakukan update dari versi 1 menjadi versi 2, terpikir apakah ada perubahan signifikan yang dapat dilakukan? tidak hanya sebatas perubahan minor, namun perubahan yang mnmberikan dampak besar dan menjadi **Game Changer** dalam dunia perizinan di Indonesia. Ide ini sudah disampaikan ke beberapa orang, semua berawal dari halaman Power Point berikut, yang merupakan awal dari prototipe penapisan persyaratan dasar berusaha.
 
 <!--lanjut-->
 ---
