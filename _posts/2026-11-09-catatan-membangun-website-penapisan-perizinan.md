@@ -72,13 +72,14 @@ Contoh Hasil penapisan berupa file PDF.
 
 ## Tanya Kami
 
-Saya juga menambahkan asisten percakapan bernama "Tanya Kami". Pengguna cukup menceritakan rencananya dengan bahasa sehari-hari. Asisten akan menanyakan data yang masih kurang, lalu menjalankan penapisan yang sama dengan formulir.
+Penulis
+ juga menambahkan asisten percakapan bernama "Tanya Kami". Pengguna cukup menceritakan rencananya dengan bahasa sehari-hari. Asisten akan menanyakan data yang masih kurang, lalu menjalankan penapisan yang sama dengan formulir.
 
 <figure class="sempit">
-  <img src="{{ '/assets/gambar/chatbot-tanya-kami.jpg' | relative_url }}" alt="Jendela percakapan Tanya Kami yang menjawab izin apa saja yang diperlukan untuk membangun gudang">
-  <figcaption>Tanya Kami menjawab kebutuhan izin untuk rencana gudang di Kecamatan Jatiuwung.</figcaption>
+  <img width="430" height="630" alt="chatbot-tanya-kami" src="https://github.com/user-attachments/assets/25446b2b-c33a-4ec7-9eb5-e4060516f86a" />
 </figure>
 
+Tanya Kami menjawab kebutuhan izin untuk rencana gudang di Kecamatan Jatiuwung.
 ## Dari sisi petugas
 
 Di belakang layar, ada panel petugas untuk setiap dinas. DPMPTSP memverifikasi permohonan, lalu setiap dinas hanya melihat dan memproses izin yang menjadi kewenangannya. Dasbor menampilkan rekap permohonan dan beban kerja setiap subsistem.
