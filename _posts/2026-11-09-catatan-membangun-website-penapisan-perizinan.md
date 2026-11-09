@@ -35,13 +35,13 @@ Gagasan yang ingin saya uji dirangkum dalam satu kalimat di halaman depan websit
 Bagian tersulit justru bukan menulis kode, melainkan menyepakati alurnya sendiri. Setelah beberapa kali mengubah rancangan, alur yang saya pakai sekarang terdiri atas empat langkah.
 
 <figure>
-  <img src="{{ '/assets/gambar/alur-empat-langkah.jpg' | relative_url }}" alt="Diagram empat langkah: Keterangan Rencana Kota, lalu Persetujuan Lingkungan, Peil Banjir, dan Andalalin secara paralel, lalu Pengesahan Rencana Tapak atau Tidak Perlu PRT, lalu PBG">
+ <img width="1280" height="580" alt="alur-empat-langkah" src="https://github.com/user-attachments/assets/6b5bb36c-7e8c-4918-9d3c-a49e4c49431f" />
   <figcaption>Empat langkah yang diproses berurutan setelah permohonan diverifikasi.</figcaption>
 </figure>
 
 1. **Keterangan Rencana Kota (KRK)** sebagai pintu masuk. Awalnya tahap ini saya namai "Tata Ruang", tetapi nama itu terlalu luas dan sering disalahpahami.
 2. **Persetujuan Lingkungan, Peil Banjir, dan Andalalin** diproses bersamaan oleh dinas masing-masing.
-3. **Pengesahan Rencana Tapak**, atau jalur "Tidak Perlu PRT". Rencana tapak dipersyaratkan bagi pengembangan perumahan dan pengajuan kawasan. Bangunan tunggal nonperumahan langsung menuju PBG.
+3. **Pengesahan Rencana Tapak**, atau jalur "Tidak Perlu PRT". Rencana tapak dipersyaratkan bagi pengembangan perumahan dan pengajuan kawasan. Bangunan tunggal langsung menuju PBG.
 4. **PBG** sebagai langkah terakhir.
 
 Izin yang tidak dipersyaratkan dilewati otomatis. Langkah berikutnya baru terbuka setelah seluruh izin wajib pada langkah sebelumnya selesai. Di setiap dinas, izin melalui tahapan yang sama: konsultasi, berita acara, penetapan, persetujuan, tanda tangan SK, dan cetak SK.
@@ -51,11 +51,26 @@ Izin yang tidak dipersyaratkan dilewati otomatis. Langkah berikutnya baru terbuk
 Prinsip yang saya pegang sejak awal: setiap ambang batas harus punya dasar hukum, dan dasar hukum itu harus terlihat oleh pengguna. Karena itu, hasil penapisan tidak hanya menyebut izin apa yang wajib, tetapi juga alasannya dan pasal yang menjadi rujukannya. Hasilnya diperbarui langsung saat formulir diisi.
 
 <figure>
-  <img src="{{ '/assets/gambar/formulir-dan-hasil-penapisan.jpg' | relative_url }}" alt="Formulir permohonan di sebelah kiri dan panel Hasil Penapisan Otomatis di sebelah kanan">
+ <img width="1200" height="880" alt="formulir-dan-hasil-penapisan" src="https://github.com/user-attachments/assets/f9d51062-69a6-4079-a5e3-075aeb0cfdf8" />
   <figcaption>Contoh simulasi gudang 1.800 m² di atas lahan 2.500 m². Panel kanan langsung menunjukkan persyaratan yang wajib beserta dasar hukumnya. Data yang dipakai adalah data contoh.</figcaption>
 </figure>
 
 Rujukan utamanya adalah PP Nomor 28 Tahun 2025, ditambah peraturan teknis seperti Permen LHK Nomor 4 Tahun 2021 untuk persetujuan lingkungan, Permenhub Nomor 17 Tahun 2021 untuk Andalalin, dan Permen PUPR Nomor 11/PRT/M/2014 untuk peil banjir. Ketentuan yang belum ada dasar hukumnya tidak saya karang. Ketentuan seperti itu ditandai sebagai ketentuan daerah dan dijadikan parameter yang dapat diatur administrator.
+
+## Hasil penapisan langsung
+
+Hasil penapisan juga bisa langsung diterbitkan dalam bentuk PDF, hasil sesuai dengan data yang diinput oleh pemohon yang akan diproses penapisan berdasarkan aturan yang ada. Pemohon bisa langsung tau persyaratan apa saja yang perlu dilalui untuk bisa sampai pada perizinan Persetujuan Bangunan Gedung.
+
+<figure>
+ <img width="561" height="828" alt="PENAPISAN 1" src="https://github.com/user-attachments/assets/046e4ff5-98f1-4539-9f03-8b20cf6dec5a" />
+ <img width="562" height="814" alt="PENAPISAN 2" src="https://github.com/user-attachments/assets/dbbaa567-991f-48f9-9486-23eb7dba54bd" />
+ <img width="569" height="825" alt="PENAPISAN 3" src="https://github.com/user-attachments/assets/a59503a2-e500-4172-869a-30b191546424" />
+ 
+   <figcaption>Contoh Hasil penapisan berupa file PDF.</figcaption>
+</figure>
+
+Rujukan utamanya adalah PP Nomor 28 Tahun 2025, ditambah peraturan teknis seperti Permen LHK Nomor 4 Tahun 2021 untuk persetujuan lingkungan, Permenhub Nomor 17 Tahun 2021 untuk Andalalin, dan Permen PUPR Nomor 11/PRT/M/2014 untuk peil banjir. Ketentuan yang belum ada dasar hukumnya tidak saya karang. Ketentuan seperti itu ditandai sebagai ketentuan daerah dan dijadikan parameter yang dapat diatur administrator.
+
 
 ## Tanya Kami
 
