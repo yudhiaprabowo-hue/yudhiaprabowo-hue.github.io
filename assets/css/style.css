@@ -179,6 +179,14 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .isi-tulisan blockquote p:last-child { margin-bottom: 0; }
 .isi-tulisan img { max-width: 100%; height: auto; display: block; margin: 1.5em 0; border-radius: 3px; }
+.isi-tulisan figure { margin: 2em 0; }
+.isi-tulisan figure img { margin: 0; border: 1px solid var(--garis); border-radius: 4px; }
+.isi-tulisan figure.sempit img { max-width: 360px; }
+.isi-tulisan figcaption {
+  margin-top: .6em;
+  font-family: var(--sans); font-size: .875rem; line-height: 1.5;
+  color: var(--tinta-lembut);
+}
 .isi-tulisan hr { border: 0; border-top: 1px solid var(--garis); margin: 2.5em 0; }
 .isi-tulisan code {
   font-size: .88em; background: #e3eaef; padding: .1em .35em; border-radius: 3px;
